@@ -1,0 +1,21 @@
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes.dex : \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\BuildConfig.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\myApp.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\R$attr.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\R$drawable.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\R$string.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\R$xml.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\ionicframework\myapp300289\R.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\jsmobile\plugins\sms\Sms$1.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\com\jsmobile\plugins\sms\Sms.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\Flashlight$1.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\Flashlight.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$1.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$2.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$SocialSharingRunnable.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\asus\Desktop\HR\2014-07-solo\platforms\android\ant-build\dexedLibs\classes-ed34931a260aa51bcad5c06138245414.jar \

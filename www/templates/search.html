@@ -1,0 +1,23 @@
+<ion-view title="Add Message">
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+    <h1>Add Message</h1>
+    <div class="list" ng-controller='MessageCtrl'>
+	  <label class="item item-input">
+	    <input type="text" placeholder="To..">
+	  </label>
+	  <label class="item item-input">
+	    <textarea class="message_box" placeholder="Message..">{{ message }}</textarea>
+	  </label>
+      <button class="button button-block button-positive" ng-click="randoMessage()">
+	    Give Me That Smooth Talk!
+	  </button>
+	  <button class="button button-block button-positive" ng-click="SMS()">
+	    Send That Magic!!
+	  </button>
+	  
+	</div>
+  </ion-content>
+</ion-view>
